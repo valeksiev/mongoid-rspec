@@ -1,3 +1,4 @@
+p 'mongoid-rspec in tha houz'
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 
 require 'mongoid'
